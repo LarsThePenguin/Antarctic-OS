@@ -1,2 +1,8 @@
-# Antarctic-OS
-This is a OS made from scratch. Intended to support Linux ELFs. (Possibly Windows APIs at some point)
+# Antarctic Operating System
+This is a OS made from scratch. Intended to support Linux ELFs. </br>
+At some point it might be able to support Windows EXEs and Windows APIs. </br>
+(AKA Run Linux and Windows software) </br>
+# Hardware Support
+Its just x86-64 so far with Multiboot2 </br>
+I don't know its based on CodePulse's OS kernel series </br>
+Note: I don't know what type of BIOSes support Multiboot2, I am just using QEMU to run it currently </br>
